@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f12ae71-0be6-4945-8584-88b458a35551" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Life-Emulator" />
+  </component>
+  <component name="ProjectId" id="1bo2P9xcHWQU92VkgvhaIa2fD7D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15722656" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="world.Main" />
+      <module name="life-emulator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <module name="life-emulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <module name="life-emulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Runner (1)" />
+      <item itemvalue="Application.Runner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Runner (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f12ae71-0be6-4945-8584-88b458a35551" name="Default Changelist" comment="" />
+      <created>1589284098995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589284098995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597227534971">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="406" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1597227534971" />
+    <state x="449" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597231538459">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="449" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1597231538459" />
+    <state x="563" y="120" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1592641120981">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="563" y="120" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.860@0.0.1440.860" timestamp="1592641120981" />
+    <state x="400" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595959085290">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="400" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.860@0.0.1440.860" timestamp="1595959085290" />
+    <state x="500" y="183" key="FileChooserDialogImpl" timestamp="1597231243860">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="183" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1597231243860" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1597232989974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1597232989974" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1597232989974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1597232989974" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1597232989974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1597232989974" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1597232989974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1597232989974" />
+    <state x="200" y="3" key="SettingsEditor" timestamp="1597234295379">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="3" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1597234295379" />
+    <state x="367" y="322" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595960367379">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="367" y="322" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.860@0.0.1440.860" timestamp="1595960367379" />
+    <state x="0" y="50" key="new project wizard" timestamp="1592647149161">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="50" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1592647149161" />
+  </component>
+</project>
